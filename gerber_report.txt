@@ -1,0 +1,14 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-F_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-In1_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-In2_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-B_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-F_Paste.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-B_Paste.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-F_Mask.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-B_Mask.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\Random Number Display System\Random Number Display System-job.gbrjob'.
+Info: Done.
